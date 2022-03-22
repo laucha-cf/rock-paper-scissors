@@ -1,0 +1,3 @@
+Wanna play Rock Paper Scissors? Have no friends?
+Play with the computer!!!
+Just execute and try it yourself...
